@@ -11,8 +11,8 @@
 #include <time.h>
 
 //32768
-#define ROWS_COUNT 100
-#define COLUMN_COUNT 100
+#define ROWS_COUNT 32768
+#define COLUMN_COUNT 32768
 
 /* given a matrix, with pre-define number of rows (ROWS_COUNT)
  * and number of columns (COLUMN_COUNT), print_matrix function prints
